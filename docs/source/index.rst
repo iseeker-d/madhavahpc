@@ -20,5 +20,5 @@ Contents
 
    usage
    api
-   introduction
+   Accessing the Cluster
    help
