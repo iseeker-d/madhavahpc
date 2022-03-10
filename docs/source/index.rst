@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   introduction
+   help
