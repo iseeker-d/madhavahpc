@@ -1,2 +1,2 @@
-ACCESSING THE CLUSTER
+Accessing the Cluster
 =====================
